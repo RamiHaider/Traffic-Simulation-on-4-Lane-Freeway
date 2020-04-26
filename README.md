@@ -8,7 +8,7 @@ Full credits to Jason: https://www.youtube.com/channel/UCOuk_JHNvndUP7o_ivoX79g
 ![](3%20mins%20in.png)
 
 
-![]initial.png)
+![](initial.png)
 
 The code was written in Eclipse SDK for Java Developers. The main code is in 'Traffic', and the 'Vehicle' code is the parent code, whereby the children are just the different cars, SUV, Sports, etc..
 
